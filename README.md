@@ -27,11 +27,10 @@ Step 7 :
 Print the result.
 
 ## Program:
-```
+
 Name   : KRISHNA PRAKAASH D M
 Reg no : 212221230052
 DEPARTMENT : AI-DS
-```
 
 ```
 using System;
@@ -78,6 +77,7 @@ namespace eligible
 
 ![Output_1](OP1.png)
  
+
  ![Output_2](OP2.png)
 
 
@@ -86,4 +86,4 @@ namespace eligible
 
 Thus a C# program to find the eligibility for admission to an engineering course is written and executed.
 
- 
+
