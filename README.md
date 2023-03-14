@@ -27,10 +27,11 @@ Step 7 :
 Print the result.
 
 ## Program:
-
+```
 Name   : KRISHNA PRAKAASH D M
 Reg no : 212221230052
 DEPARTMENT : AI-DS
+```
 
 ```
 using System;
