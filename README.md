@@ -76,10 +76,10 @@ namespace eligible
 
 ## Output:
 
-![Output_1](OUT-1.png)
+![Output_1](CAP-1.PNG)
  
 
- ![Output_2](OUT-2.png)
+ ![Output_2](CAP-2.PNG)
 
 
 
