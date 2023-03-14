@@ -76,10 +76,9 @@ namespace eligible
 
 ## Output:
 
-![OUT-1](CAP-1.PNG)
- 
+![CAP-1](https://user-images.githubusercontent.com/93427144/225089135-56cc576c-75af-4610-a858-0805a3fa8b56.PNG)
+![CAP-2](https://user-images.githubusercontent.com/93427144/225089159-e4d77c9b-c565-4acb-9070-b4f87b2b9558.PNG)
 
- ![OUT-2](CAP-2.PNG)
 
 
 
